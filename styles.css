@@ -1,0 +1,16 @@
+table, th, td {
+    margin: 20px;
+    padding: 10px;
+    border: 0,5px solid white;
+    font-size: larger;
+    color: white
+}
+.cabeçalho-moda {
+    background-color: #BB86FC;
+}
+.cabeçalho-casa {
+    background-color: #00c4b4;
+}
+.valores-das-tabelas {
+    background-color: #424250;
+}
